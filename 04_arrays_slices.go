@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func arrays_slices() {
 
 	// Arrays (fixed-sized collection) [n]T
 	var languages [4]string = [4]string{"English", "Japanese", "Finnish", "German"}

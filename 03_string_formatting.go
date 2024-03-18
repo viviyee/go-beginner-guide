@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func string_formatting() {
 
 	// Print
 	fmt.Print("Hello ")
@@ -37,8 +37,9 @@ func main() {
 	gpa := 3.66
 	liveInUSA := false
 	fmt.Printf("GPA: %f, Live in USA: %t\n", gpa, liveInUSA)
+
 	fmt.Printf("GPA: %0.1f\n", gpa) // round to 1 decimal place -> 3.7
-	fmt.Printf("Age: %05d\n", age)
+	fmt.Printf("Age: %05d\n", age)  // pad with zeros to width 5 -> 00029
 
 	// Sprintf
 	info := fmt.Sprintf("Name: %s, Age: %d, GPA: %0.1f, Live in USA: %t", name, age, gpa, liveInUSA)

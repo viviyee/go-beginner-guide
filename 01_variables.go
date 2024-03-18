@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func variables() {
 	// Declare a Variable
 	var continent string
 	continent = "Asia"
