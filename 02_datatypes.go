@@ -69,15 +69,28 @@ func datatypes() {
 	var liveInUSA bool = false
 	fmt.Println(isAdult, liveInUSA)
 
-	// Array
-
-	// Slice
+	// Array and Slice
 
 	// Map
+
+	// Pointer
 
 	// Struct
 
 	// Interface
 
-	// Pointer
+	/*
+		Group A (Pass by value) (Non Pointer Values)
+		strings
+		ints
+		floats
+		booleans
+		arrays
+		structs
+
+		Group B (pass by pointer) (Pointer Wrapper Values)
+		slices
+		maps
+		functions
+	*/
 }
