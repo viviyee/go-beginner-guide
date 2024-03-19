@@ -1,0 +1,11 @@
+Bill for             Mr/Ms Kiba 
+
+sushi                2200 
+okonomiyaki          1350 
+miso soup            260 
+
+Sum                  3810 
+
+Discount             0.0 
+
+Total                3810.0 

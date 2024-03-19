@@ -1,0 +1,12 @@
+Bill for             Mr/Ms Naruto 
+
+wagyu                3200 
+ramen                1600 
+tonkatsu             1780 
+kaiseki              1200 
+
+Sum                  7780 
+
+Discount             2334.0 
+
+Total                5446.0 

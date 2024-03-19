@@ -1,0 +1,11 @@
+Bill for             Mr/Ms Tenten 
+
+yakitori             1600 
+soba                 1780 
+sukiyaki             1560 
+
+Sum                  4940 
+
+Discount             0.0 
+
+Total                4940.0 

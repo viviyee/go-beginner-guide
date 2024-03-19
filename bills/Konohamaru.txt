@@ -1,0 +1,17 @@
+Bill for             Mr/Ms Konohamaru 
+
+sashimi              3150 
+unagi                1670 
+onigiri              1220 
+wagashi              1050 
+natto                200 
+oden                 1600 
+shabu shabu          3200 
+tempura              2400 
+tofu                 550 
+
+Sum                  15040 
+
+Discount             0.0 
+
+Total                15040.0 
